@@ -7,7 +7,7 @@ Here, I upload solutions to various **Data Structures and Algorithms** problems 
 
 ### ✅ LeetCode:
 Each folder is named as:
-7. Reverse Integer
+7-Reverse-Integer
 
 Each folder contains:
 - 🔹 README.md file containg description of problem
