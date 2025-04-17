@@ -3,16 +3,18 @@
 Welcome to my DSA Practice Repository! 
 Here, I upload solutions to various **Data Structures and Algorithms** problems I solve on platforms like **LeetCode and GFG**.
 
-📂 Folder Structure (Clean Version for README)
-DSA-Practice/
+## ✍️ Naming Convention
 
-📁 Arrays/ — Problems based on arrays
+### ✅ LeetCode:
+Each folder is named as:
+7. Reverse Integer
 
 Each folder contains:
-- 🔹 Problem name
+- 🔹 README.md file containg description of problem
 - 🔹 Solution code (`.cpp`)
-- 🔹 Clear and consistent naming
 
+### ✅ GFG:
+- Files are named like `Reverse_Array.cpp`, `Kth_Largest_Element.cpp`, etc.
 
 
 ## 💡 Topics Covered
@@ -38,7 +40,13 @@ Each folder contains:
 
  ## 📈 My Progress
 
-- Problems Solved: **61+**
+## 🚀 Progress Tracker
+
+| Platform   | Problems Solved |
+|------------|------------------|
+| LeetCode   | 61+ (and growing daily) |
+| GFG        | Actively updating |
+| Total      | ✅ 86+ problems committed |
 - Consistent practice using Striver’s SDE Sheet
 - Target: Solve **100+ problems** before placements
 
@@ -59,5 +67,5 @@ Each folder contains:
 
 
 
-> “Practice like you’ve never won. Perform like you’ve never lost.” 🧠🔥
+> “A little progress each day adds up to big results.” 🌱💻
 
